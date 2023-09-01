@@ -23,7 +23,7 @@ Clipboard landing page from my Tailwind course and from [Frontend Mentor Challen
 
 <p align="center">
   <a href="https://phenomenal-squirrel-ff25bf.netlify.app/" target="_blank">
-    <img alt="Demo on Netlify" src="https://raw.githubusercontent.com/PabloNatan/clipboard/main/public/button.png">
+    <img alt="Demo on Netlify" src="https://raw.githubusercontent.com/PabloNatan/tailwind-landing-page/main/public/button.png">
   </a>
 </p>
 
